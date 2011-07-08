@@ -5,9 +5,9 @@ header("Content-Type: text/html; charset=utf-8");
   <head>
     <title>unicate.ch</title>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-    <link type="text/css" rel="stylesheet" href="/site/css/site.css" media="all" />
+    <link type="text/css" rel="stylesheet" href="../site/css/site.css" media="all" />
     <link type="text/css" rel="stylesheet" href="./css/style.css" media="all" />
-    <script type="text/javascript" src="/site/js/jquery-1.5.2.min.js"></script>
+    <script type="text/javascript" src="../site/js/jquery-1.5.2.min.js"></script>
     <script type="text/javascript" src="./js/sn.js"></script>
     <script type="text/javascript">
       noteId = "JrPsqQ";
